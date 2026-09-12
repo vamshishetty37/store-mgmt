@@ -1,0 +1,6 @@
+{
+  "name": "Store Manager",
+  "description": "Smart retail store management with AI invoice scanning, true landed cost & GST calculation, running weighted average inventory, dynamic pricing, and POS checkout.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
